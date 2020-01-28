@@ -1,0 +1,103 @@
+A yaw misalignment is affecting the turbine operation.
+High and variable wind speed is affecting the stabilisation properties of the yaw brake.
+The wind vane measurements signal a high deviation in absolute wind direction.
+A forced shutdown is recommended until the absolute wind direction returns to normal.
+The reactive power control mechanism is disfunctional.
+Lack of grid power is preventing the yaw brake to stabilise the alignment of blades towards wind direction.
+Checking the reactive power control system for fault is recommended.
+There is a critical anomaly in the electronic pitch controller.
+Please check the blade pitch controller within the nacelle for adjusting the lidar.
+Ambient temperature changes are causing abnormal operation of the pitch controller.
+Checking the ambient temperature of generator stator is recommended.
+A disfunctional hydraulic power unit of the yaw is affecting the turbine operation.
+Controlled system pressure environment and regulated flow rate essential.
+"To stabilize the yaw bearing against rotation, braking is necessary."
+Please check the upper shaft of the rotor sweep disk for high temperature.
+It is suggested to use lubricants and coolants for avoiding complete failure of the rotor and yaw mechanism.
+High rotational speed of the rotor is affecting spinning tension.
+The control system for grid integration and frequency stability is disfunctional.
+Coordinated frequency control is recommended to achieve optimal pitch angle.
+High and variable wind speed is affecting the pitch system statibility.
+There is misaligment in pitch angle.
+Please check the pitch angle controller for anomaly.
+The hub temperature is affecting the hydraulic pitch control mechanism
+Please check the hydraulic pitch system fluids for oil cleanliness.
+Limit switch activated as pitch blade has reached fine limit.
+Please check the pitch control switch mechanism for anomaly.
+Fine tuning and repair of pitch controller is recommended.
+"Blades are too slow to respond, and not capturing all the wind they could."
+"The generator converter speed is too high, affecting kinetic load."
+Synchronous generator speed control is essential to prevent decrease in blade effeciency.
+Electrical braking mechanism maintenance is recommended to prevent stalling effect.
+The nacelle temperature is not in ambient range.
+"Due to low temperature, turbine blades may be frozen."
+Forced shutdown is recommended until weather conditions become normal.
+There is an anomaly in gearbox oil pressure levels.
+High wind gusts are affecting the gearbox operation.
+"Due to loading on the gearbox bearings, the oil tank levels are suffering inconsistency."
+Gearbox oil tank checks for leaks or replacement is recommended.
+The grid voltage fluctaction is causing load changes.
+The outside temperature is not in ambient range.
+The variation in temperature is directly affecting the energy balance of gearbox.
+The wind speed is very high and not in normal range.
+The hydraulic pitch control mechanism is having anomaly.
+"To prevent failure in brake control and pitch control, forced shutdown is recommended."
+Gearbox oil temperature is not in ambient range.
+Excessive system heat can cause hydraulic fluids to break down.
+"To prevent catastrophic failure to internal components (piston slipper pad and piston), replacement and check of hydraulic fluids is necessary."
+Rotor bearing temperature is not in ambient range.
+Yaw error is greater than maximum permissible error for turbine operation.
+Forced shutdown is recommended until temperature returns to normal.
+External temperature is directly causing yaw errors due to misalignment in calibration.
+Generator bearing temperature is not in ambient range.
+Coordinated frequency control is recommended to eliminate yaw error.
+The generator oil sump temperature is not in ambient range.
+Generator oil replacement and check is recommended.
+The Energy Storage Power Conversion System (PCS) is having a fault.
+"Due to extreme variations in wind speed, the charging and discharging of PCS have been affected."
+Forced shutdown is recommended until wind speed returns to normal range.
+There is anomaly in the turbine exhaust pressure.
+Power performance and aerodynamics are affected by pitch angle misalignment.
+Checks and Maintenance of turbine exhaust valves is recommended.
+Faulty generator stator is affecting operation of the exhaust system.
+Variable wind speed is affecting operation of exhaust valves.
+The wind speed and direction transducer controller is not able to drive the yaw motor against wind accurately.
+Extremely harsh environmental conditions and wind speed is affecting operation od the transducer. 
+Checking and replacement of wind vane controller and forced shutdown is recommended.
+The yaw mechanism is oriented towards opposite direction
+The gearbox oil transmission filter is clogged.
+"Due to contamination in the filter elements, there is loss of pressure in the filter housing."
+Checking and maintenance of gearbox oil transmission filter for pressure levels is recommended. 
+There is Increased Phase Resistance (IPR) in the generator stator and rotor windings.
+The IPR fault is causing failure of the Double Fed Induction Generation (DFIG).
+Inspection of end windings and partial or complete rewinds is recommended. 
+The turbine power performance is derated.
+Ice accumulated on blades has been  detected and the WTGS is allowed to operate although the power performance isderated
+There is WTGS deterioration occuring at present.
+The generator inlet temperature is not in ambient range.
+Repair and maintenance of nozzles in the generator inlet is recommended.
+Hub temperature is not in ambient range.
+Generator stator temperature is not in ambient range.
+"Grid constraint, actual energy productionless than potential energy production."
+"The hydraulic pressure difference is too large, affecting the yaw brake control mechanism."
+There is a fatal anomaly in the pitch angle controlling system.
+Gearbox bearing temperature is not in ambient range.
+Checking and maintenance of gearbox bearings is recommended.
+Fluctuations in reactive power demand is affecting the pitch control mechanism.
+The generator bearing anomaly is affecting the power system dynamics.
+Lubricants/coolants should be used to bring the generator bearings to normal temperature.
+"Fixing the generator bearing systems and power production mechanism will help resolve the aerodynamic ,thrust on pitch controller ,stability."
+The Energy Storage Power Conversion System (PCS) has tripped.
+Excess heat has caused the circuit breaker to trip.
+The unstable grid frequency is affecting frequency response of power delivered at the PCS.
+"Please check the frequency converter between turbine and electricity grid for failure to provide kinetic energy,of the turbine during frequency change situation."
+There is an objectionable and repetitive audible sound from the blade passing behind the tower.
+Curtailment of operation is recommended until conditions become normal to prevent noise interference to nearby households.
+The Moisture Vapour Transmission Rate (MVTR) is not in ambient range.
+"Due to humidity, condensed moisture is accumulating, affecting operation efficiency."
+The Energy Storage Power Conversion System (PCS) has been switched off.
+"Due to extreme variations in wind direction, the charging and discharging of PCS have been affected."
+"Due to hydraulic pressure difference beyond tolerance, the yaw braking mechanism is causing high fatigue loads on turbine components."
+"To prevent backlash and avoid wear, repair/maintenance of they yaw control mechanism is recommended."
+There is a fatal anomaly in the electronic pitch controller.
+The wind speed exceeds cut-out speed and there is danger of damage to turbine.
