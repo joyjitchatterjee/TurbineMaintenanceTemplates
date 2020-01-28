@@ -1,4 +1,4 @@
-# TurbineMaintenanceTemplates- Supplementary data for "A Dual Transformer Model for Intelligent Decision Support for Maintenance of Wind Turbines"
+Supplementary data for "A Dual Transformer Model for Intelligent Decision Support for Maintenance of Wind Turbines"
 
 (in submission)
 
