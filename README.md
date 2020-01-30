@@ -11,6 +11,9 @@ It includes:-
 2. A collection of 167 templates, each detailing a complete maintenance strategy for specific types of faults, given a particular sequence
 of alarm type and relevant features.
 
+![Wordcloud for event descriptions of alarms in the turbine](https://drive.google.com/file/d/1iSob8_4isuF_yQzFMaHJ_eoJ864E8qN2/view?usp=sharing
+)
+
 Acknowledgments:-
 Special acknowledgment to Offshore Renewable Energy Catapult (ORE Catpault)'s Platform for Operational Data (POD) https://pod.ore.catapult.org.uk, based on which we derived
 useful insights for developing these human-authored templates. 
