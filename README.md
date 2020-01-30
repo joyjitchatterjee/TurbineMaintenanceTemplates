@@ -17,5 +17,5 @@ of alarm type and relevant features.
 
 Acknowledgments:-
 Special acknowledgment to Offshore Renewable Energy Catapult (ORE Catpault)'s Platform for Operational Data (POD) https://pod.ore.catapult.org.uk, based on which we derived
-useful insights for developing these human-authored templates. 
+useful insights for developing these human-authored templates. Also, the SCADA data was utilised from POD as a part of this study.
 
