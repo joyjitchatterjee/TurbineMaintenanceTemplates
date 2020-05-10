@@ -11,6 +11,7 @@ It includes:-
 2. A collection of 167 templates, each detailing a complete maintenance strategy for specific types of faults, given a particular sequence
 of alarm type and relevant features.
 
+Note: The authored maintenance actions are a hypothetical collection of different possible scenarios which we would like to evaluate in our approach- simulated under various types of faults.
 Refer https://youtu.be/HSUFzBr_mVQ for a video demo of our approach.
 
 ![Wordcloud for event descriptions of alarms in the turbine](https://github.com/joyjitchatterjee/TurbineMaintenanceTemplates/blob/master/Wordcloud_EventDescriptions_DualTransformer.png
