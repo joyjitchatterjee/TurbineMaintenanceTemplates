@@ -20,7 +20,7 @@ Refer https://youtu.be/HSUFzBr_mVQ for a video demo of our approach.
 ![Wordcloud for event descriptions of alarms in the turbine](https://github.com/joyjitchatterjee/TurbineMaintenanceTemplates/blob/master/Wordcloud_EventDescriptions_DualTransformer.png
 )
 
-Acknowledgments:-
+# Acknowledgments:-
 Special acknowledgment to Offshore Renewable Energy Catapult (ORE Catpault)'s Platform for Operational Data (POD) https://pod.ore.catapult.org.uk, based on which we derived
 useful insights for developing these human-authored templates. Also, the SCADA data was utilised from POD as a part of this study.
 
