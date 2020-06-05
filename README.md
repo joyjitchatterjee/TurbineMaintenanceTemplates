@@ -6,6 +6,7 @@
 This repository contains human-authored corpus of maintenance actions for faults in offshore wind turbines. This accompanies our paper
 "A Dual Transformer Model for Intelligent Decision Support for Maintenance of Wind Turbines" as a supplementary material.
 Cite as: 
+
 *Chatterjee, J. and Dethlefs, N., "A Dual Transformer Model for Intelligent Decision Support for Maintenance of Wind Turbines", International Joint Conference on Neural Networks (IJCNN), July 2020, Glasgow, UK.*
 
 # Contents:-
